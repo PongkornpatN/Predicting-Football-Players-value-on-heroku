@@ -12,6 +12,8 @@ Here is how we deploy this model >> https://bit.ly/3GHwVSL <<
 
 Here is our model deployed on heroku >> https://ml-predicting-fb-player-value.herokuapp.com/ << 
 
+---------------------------------------------------------------------------------------------
+
 โปรเจคทำนายราคาซื้อขายของนักฟุตบอลด้วย machine learning ของคอร์ส DSE รุ่นที่ 5 กลุ่มที่ 4
 
 โปรเจคนี้ทำนายราคาซื้อขายนักฟุตบอลโดยใช้ค่าความสามารถของนักเตะจากเว็บ https://sofifa.com/
